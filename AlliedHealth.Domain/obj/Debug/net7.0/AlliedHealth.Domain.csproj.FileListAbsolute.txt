@@ -1,0 +1,12 @@
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\bin\Debug\net7.0\AlliedHealth.Domain.deps.json
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\bin\Debug\net7.0\AlliedHealth.Domain.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\bin\Debug\net7.0\AlliedHealth.Domain.pdb
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\refint\AlliedHealth.Domain.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\AlliedHealth.Domain.pdb
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.Domain\obj\Debug\net7.0\ref\AlliedHealth.Domain.dll

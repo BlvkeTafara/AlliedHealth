@@ -1,0 +1,17 @@
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.AssemblyInfo.cs
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\bin\Debug\net7.0\AlliedHealth.DataAccess.deps.json
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\bin\Debug\net7.0\AlliedHealth.DataAccess.runtimeconfig.json
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\bin\Debug\net7.0\AlliedHealth.DataAccess.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\bin\Debug\net7.0\AlliedHealth.DataAccess.pdb
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\bin\Debug\net7.0\AlliedHealth.Domain.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\bin\Debug\net7.0\AlliedHealth.Domain.pdb
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.csproj.CopyComplete
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\refint\AlliedHealth.DataAccess.dll
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.pdb
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\AlliedHealth.DataAccess.genruntimeconfig.cache
+C:\Users\Blvke\source\repos\AlliedHealth\AlliedHealth.DataAccess\obj\Debug\net7.0\ref\AlliedHealth.DataAccess.dll
